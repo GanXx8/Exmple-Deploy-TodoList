@@ -1,0 +1,7 @@
+.list-li {
+    background-color: rgb(210, 226, 255);
+    padding: 3px 1rem;
+    margin: .5rem 3px;
+    border: 1px solid none;
+    border-radius: 5px;
+}
